@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Pomogator"
+  },
+  "Abbr": {
+    "message": "Pomogator"
+  },
+  "appDescription": {
+    "message": "Helps to play systems like a violin"
+  },
+  "browserActionDefaultTitle": {
+    "message": "Pomogator"
+  }
+}

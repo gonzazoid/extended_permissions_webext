@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Pomogator"
+  },
+  "Abbr": {
+    "message": "Pomogator"
+  },
+  "appDescription": {
+    "message": "облегчает жизнь"
+  },
+  "browserActionDefaultTitle": {
+    "message": "Pomogator"
+  }
+}
