@@ -1,14 +1,14 @@
 {
   "appName": {
-    "message": "Pomogator"
+    "message": "ExtendedPermissions"
   },
   "Abbr": {
-    "message": "Pomogator"
+    "message": "ExtendedPermissions"
   },
   "appDescription": {
-    "message": "Helps to play systems like a violin"
+    "message": "example of extended permissions for Ultimatum"
   },
   "browserActionDefaultTitle": {
-    "message": "Pomogator"
+    "message": "ExtendedPermissions"
   }
 }
