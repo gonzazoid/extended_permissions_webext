@@ -25,7 +25,8 @@
       "localStorages",
       "urlRequest",
       "dns",
-      "fileSystem"
+      "fileSystem",
+      "fileSystem.write"
     ],
     "sockets": {
       "tcp": {
